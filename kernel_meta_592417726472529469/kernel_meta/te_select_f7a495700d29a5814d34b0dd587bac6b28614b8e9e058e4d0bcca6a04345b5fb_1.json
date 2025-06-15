@@ -1,0 +1,20 @@
+{
+    "batchBindOnly":1,
+    "binFileName":"te_select_f7a495700d29a5814d34b0dd587bac6b28614b8e9e058e4d0bcca6a04345b5fb_1",
+    "binFileSuffix":".o",
+    "blockDim":40,
+    "coreType":"VectorCore",
+    "deterministic":"ignore",
+    "intercoreSync":0,
+    "kernelName":"te_select_f7a495700d29a5814d34b0dd587bac6b28614b8e9e058e4d0bcca6a04345b5fb_1__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF_AIVEC",
+    "memoryStamping":[],
+    "opParaSize":0,
+    "parameters":[
+        null,
+        null,
+        null,
+        null
+    ],
+    "sha256":"709912271ed105217b320758a80a516a0e88d77b0a1e8309c6078c6f81683c1c"
+}
