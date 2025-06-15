@@ -1,1 +1,13 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# ModelArts/MindSpore 相关输出或临时目录
+.modelarts/
+.virtual_documents/
+__pycache__/
+kernel_meta_*/
+rank_0/
+
+# 系统或IDE生成的临时文件
 lost+found/
+.lsp_symlink
